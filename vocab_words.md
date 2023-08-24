@@ -104,10 +104,19 @@ This is a list of vocab words that it would be good to learn.
 "The king's *coffers* were near empty due to the costs of war."<br>
 
 **Contrite** (adj): deeply sorrowful and repentant for a wrong<br>
-God asks us to come before Him with a humble heart and a *contrite* spirit.
+"God asks us to come before Him with a humble heart and a *contrite* spirit."<br>
 
 **Corroborate** (v): to agree with one another; to support with evidence<br>
 "The two witnesses' stories *corroborated* despite having been told from varying perspectives."<br>
+
+**Cosseted** (adj): cared for and protected in an overindulgent way; pampered<br>
+"The grandchildren were often spoiled and *cosseted* whenever they visited their grandparent's home."<br>
+
+**Dandled** (v): move (a baby or young child) up and down in a playful or affectionate way<br>
+"I like to *dandle* Molly by tossing her into the air and hearing her giggles."<br>
+
+**Deleterious** (adj): causing harm or damage<br>
+"Incessant vibrations often have a *deleterious* effect on mechanical systems."<br>
 
 **Diaspora** (n): the dispersion or spread of people from their original homeland<br>
 "The Babylonian invasion led to the *diaspora* of the Jewish people."<br>
@@ -132,6 +141,9 @@ God asks us to come before Him with a humble heart and a *contrite* spirit.
 
 **Espoused** (v): adopt or support (a cause, belief, or way of life)<br>
 "The former zealot renounced the religion he formerly *espoused*."<br>
+
+**Exculpated** (v): show or declare that (someone) is not guilty of wrongdoing<br>
+"After years of being accused of the theft, new evidence *exculpated* the alleged crime."<br>
 
 **Exigent** (adj): urgent; requiring immediate action<br>
 "The life or death situation required *exigent* and quick decision making."<br>
@@ -171,6 +183,9 @@ God asks us to come before Him with a humble heart and a *contrite* spirit.
 
 **Impetuous** (adj): acting or done without thought or care<br>
 "Julia seems to have more of an *impetuous* nature when compared to myself due to her impulsive tendencies."<br>
+
+**Implacable** (adj) relentless; unstoppable<br>
+"The cries of the inconsolable child were *implacable*."<br>
 
 **Impugn** (v): to call into question; to attack verbally<br>
 "Debates are often the birthplace of many arguments and those who will *impugn* them."<br>
@@ -234,6 +249,7 @@ God asks us to come before Him with a humble heart and a *contrite* spirit.
 
 **Malinger** (v): to evade responsibility by pretending to be ill<br>
 "It is uncommon to hear of individuals skipping work by *malingering* or calling in sick despite not actually being sick."<br>
+
 **Mendacious** (adj): not telling the truth; lying<br>
 "Online scammers are know for their *mendacious* tactics in which they trick others into giving them their hard-earned money."<br>
 
@@ -275,6 +291,9 @@ God asks us to come before Him with a humble heart and a *contrite* spirit.
 
 **Perambulate** (v): walk or travel through or around a place or area, especially for pleasure and in a leisurely way<br>
 "She enjoyed herself as she *perambulated* the local park."<br>
+
+**Perfidious** (adj): deceitful and untrustworthy<br>
+"The sly child was known for using *perfidious* methods to avoid punishment."<br>
 
 **Peripatetic** (adj): traveling from place to place, in particular working or based in various places for relatively short periods<br>
 "The consultant traveled much from company to company leading to his *peripatetic* reputation."<br>

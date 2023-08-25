@@ -13,6 +13,12 @@ This is a list of vocab words that it would be good to learn.
 **Abscond** (v): leave hurriedly and secretly, typically to avoid detection of or arrest for an unlawful action such as theft<br>
 "The thief *absconded* with the valuables at the first sign of danger."<br>
 
+**Accede** (v): agree to a demand, request, or treaty<br>
+"It was important that the people not *accede* to the demands of the ransom note."<br>
+
+**Acuity** (n): sharpness or keenness of thought, vision, or hearing<br>
+"The genius was known for his mental *acuity*."<br>
+
 **Acquiesced** (v): to give in<br>
 "After the child's incessant complaining reached a feverish pitch, the weary parent finally *acquiesced*."<br>
 
@@ -37,6 +43,9 @@ This is a list of vocab words that it would be good to learn.
 **Ameliorate** (v): to make better; to improve<br>
 "Studying *ameliorates* the stress of test taking."<br>
 
+**Amoral** (adj): lacking a moral sense; unconcerned with the rightness or wrongness of something<br>
+"Often there is an *amoral* attitude when it comes to sex these days."<br>
+
 **Amulet** (n): an ornament worn as a charm against evil spirits<br>
 "The powerful *amulet* warded off the phantom's advances."<br>
 
@@ -48,6 +57,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Antipathy** (n): a deep-seeded feeling of dislike; aversion<br>
 "OCD often brings me feelings of *antipathy* toward dirty and soiled fabrics."<br>
+
+**Apace** (adv): swiftly; quickly<br>
+"Those who are talented at something tend to move *apace* as compared to the slow gait of a newcomer."<br>
 
 **Aphorism** (n): a pithy observation that contains a general truth; axiom<br>
 "'If it ain't broke, don't fix it' is a common *aphorism*."<br>
@@ -66,6 +78,12 @@ This is a list of vocab words that it would be good to learn.
 
 **Asinine** (adj): extremely stupid or foolish<br>
 "The daredevil's ill-advised stunt can only be described as *asinine*."<br>
+
+**Assuage** (v): make (an unpleasant feeling) less intense<br>
+"The SSRI medication *assuaged* the depression and intrusive thoughts of the individual."<br>
+
+**Austere** (adj): harshly simple<br>
+"The rich man was taken aback by the *austere* accommodations in which his underpaid secretary was living in."<br>
 
 **Banality** (n): unoriginal<br>
 "The newest shows being produced by Disney are characterized by utter *banality* as they are mere repeats of old stories."<br>
@@ -93,6 +111,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Callow** (adj): inexperienced and immature<br>
 "It was unsurprising that the teenager, in his annoyance, responded in a *callow* manner."<br>
+
+**Cajole** (v): persuade (someone) to do something by sustained coaxing or flattery<br>
+"One strategy often employed by children it to *cajole* their parents with incessant begging."<br>
 
 **Catholic** (adj): universal; broad and comprehensive<br>
 "The man's *catholic* reputation for fine woodwork enabled copious work opportunities."<br>
@@ -136,6 +157,9 @@ This is a list of vocab words that it would be good to learn.
 **Disabuse** (v): persuade (someone) that and idea or belief is mistaken<br>
 "It took some effort, but I was able to successfully *disabuse* the child of his notion to use the trash bag as a parachute."<br>
 
+**Egregious** (adj): outstandingly bad; shocking<br>
+"The journal article contained *egregious* errors despite the skill and renown of the researcher."<br>
+
 **Enervate** (v): cause (someone) to feel drained of energy or vitality; weaken<br>
 "The baby's incessant cries *enervated* the already tired parent to the brink of exhaustion."<br>
 
@@ -147,6 +171,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Espoused** (v): adopt or support (a cause, belief, or way of life)<br>
 "The former zealot renounced the religion he formerly *espoused*."<br>
+
+**Exacerbate** (v): make worse<br>
+"The heat of the day *exacerbated* the itchiness felt by the man with eczema."<br>
 
 **Exculpated** (v): show or declare that (someone) is not guilty of wrongdoing<br>
 "After years of being accused of the theft, new evidence *exculpated* the alleged crime."<br>
@@ -166,17 +193,26 @@ This is a list of vocab words that it would be good to learn.
 **Garrulous** (adj): excessively talkative, especially on trivial matters<br>
 "Grammy is one who is know for her incessant *garrulous* speech and prolific gossip."<br>
 
+**Grandiloquent** (adj): pompous or extravagant in language, style, or manner, especially in a way that is intended to impress<br>
+"The rhetoric used in the speech was rather *grandiloquent* and achieved its purpose in impressing the audience."<br>
+
 **Gratuitous** (adj): uncalled for; lacking good reason; unwarranted<br>
 "The *gratuitous* use of dark humor in the movie was very upsetting to the general audience."<br>
 
 **Gregarious** (adj): (of a person) fond of company; sociable<br>
 "The public speaker liked his job due to his *gregarious* nature."<br>
 
+**Harangue** (v): to lecture (someone) at length in an aggressive and critical manner<br>
+"In his disappointment, the coach *harangued* the team due to their uncharacteristic lack of effort resulting in a victory for the other team."<br>
+
 **Hegemony** (n): leadership or dominance, especially by one country or social group over others<br>
 "A vassal defined by the *hegemony* of the parent country."<br>
 
 **Hermetic** (adj): sealed tightly<br>
 "The *hermetic* seal of the jar was essential to the longevity of the stored food."<br>
+
+**Heterodoxy** (n): deviation from accepted or orthodox standards or beliefs<br>
+"Change is often marked by *heterodoxy* in which the customs of the time are rejected in favor of new ways of living."<br>
 
 **Ignoble** (adj): not honorable in character or purpose<br>
 "We often have to overcome the *ignoble* and childish feelings of lashing out against or making fun of someone."<br>
@@ -244,8 +280,14 @@ This is a list of vocab words that it would be good to learn.
 **Laud** (v): praise (a person or their achievements) highly, especially in a public context<br>
 "The awards ceremony was used to *laud* the talent and performance of the actor."<br>
 
+**Lewd** (adj): crude and offensive in a sexual way<br>
+"Society nowadays is hyper-focused on sexualized or *lewd* things that were abhorred only a few decades ago."<br>
+
 **Licentious** (adj): immoral; unrestrained by society<br>
 "Whoredoms are a *licentious* part of our society these days."<br>
+
+**Lurid** (adj): presented in vividly shocking or sensational terms, especially giving details of crimes or sexual matters<br>
+"I choose to avoid *lurid* descriptions of violent events."<br>
 
 **Lugubrious** (adj): looking or sounding sad and dismal<br>
 "Depression is often accompanied by a sad or *lugubrious* face."<br>
@@ -255,6 +297,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Malinger** (v): to evade responsibility by pretending to be ill<br>
 "It is uncommon to hear of individuals skipping work by *malingering* or calling in sick despite not actually being sick."<br>
+
+**Maladroitly** (adj): ineffective or bungling; clumsy; unskillful<br>
+"The long wait times at the restaurant were due to the new chef behaving *maladroitly*."<br>
 
 **Mendacious** (adj): not telling the truth; lying<br>
 "Online scammers are know for their *mendacious* tactics in which they trick others into giving them their hard-earned money."<br>
@@ -289,6 +334,9 @@ This is a list of vocab words that it would be good to learn.
 **Ostentatious** (adj): characterized by vulgar or pretentious display; designed to impress or attract notice<br>
 "Certain fashions are designed to be more visually stunning or *ostentatious* rather than functional."<br>
 
+**Palliative** (adj): tending to relieve<br>
+"The hug was *palliative* when it came to reducing the stress the husband experienced throughout the day."<br>
+
 **Paltry** (adj): weak; bad; poor<br>
 "The *paltry* efforts of the lawn care crew left much to be desired when it came to high curb appeal."<br>
 
@@ -306,6 +354,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Perspicuous** (adj): (of an account or representation) clearly expressed and easily understood; lucid<br>
 "Good teachers have a way of explaining new topics in a perspicuous manner that allow even the most complex of topics to be easily understood."<br>
+
+**Picayune** (adj): insignificant or commonplace<br>
+"The overabundance of the name 'Sarah' has led it to being viewed as *picayune*."<br>
 
 **Preclude** (v): prevent from happening; make impossible<br>
 "Choosing one upgrade in the video game's tech tree *precluded* an alternate upgrade."<br>
@@ -331,11 +382,20 @@ This is a list of vocab words that it would be good to learn.
 **Promulgate** (v): to make widely known (an idea or cause)<br>
 "The advertisements effectively *promulgated* the product's abilities."<br>
 
+**Propinquity** (n): the state of being close to someone or something; proximity<br>
+"We were asked to avoid *propinquity* during the COVID-19 pandemic due to the possibility of close proximity increasing the spread of the disease."<br>
+
+**Propitious** (adj): giving or indicating a good chance of success;favorable<br>
+"Making plans has a greater tendency to be *propitious* when it comes to accomplishing desired goals rather than flying by the seat of your pants."<br>
+
 **Sanguine** (adj): optimistic<br>
 "The sales person's *sanguine* claims did not match up with the unreliable product."<br>
 
 **Saprophytic** (adj): obtaining food by absorbing dissolved organic material; obtaining nourishment from decay<br>
 "Mushrooms are *saprophytic* in nature as they gain their nutrients from decomposing plant matter."<br>
+
+**Sedulous** (adj): diligent in application or pursuit<br>
+"His success in the test was due to his careful and *sedulous* studies."<br>
 
 **Seminal** (adj): (of a work, event, moment, or figure) strongly influencing later developments<br>
 "Shakespeare's works were *seminal* in advising future literary works in all genres."<br>
@@ -348,6 +408,12 @@ This is a list of vocab words that it would be good to learn.
 
 **Trammel** (v): deprive of freedom of action<br>
 "The unfortunate accident *trammeled* the marathoner by inducing paralysis."<br>
+
+**Timorous** (adj): showing or suffering from nervousness, fear, or lack of confidence<br>
+"The teen experienced more voice cracks than usual due to the uncomfortable situation promoting *timorousness*."<br>
+
+**Toady** (n): a person who behaves in an obsequious way to someone important; a sycophant<br>
+"A teachers pet may be considered a *toady*."<br>
 
 **Unctuous** (adj): (of a person) excessively flattering<br>
 "The sycophant behaved in an *unctuous* manner to his chosen master."<br>

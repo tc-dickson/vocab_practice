@@ -52,6 +52,9 @@ This is a list of vocab words that it would be good to learn.
 **Aphorism** (n): a pithy observation that contains a general truth; axiom<br>
 "'If it ain't broke, don't fix it' is a common *aphorism*."<br>
 
+**Aplomb** (n): self-confidence or assurance, especially when in a demanding situation<br>
+"Despite the pressure of the testing environment, Tyler handled himself with *aplomb* because of his careful studying."<br>
+
 **Apocryphal** (adj): untrue; of doubtful authenticity<br>
 "The fisherman who was carried away in boasting of his accomplishments began spouting *apocryphal* claims."<br>
 
@@ -75,6 +78,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Bilk** (v): swindle or scam; to cheat: to defraud<br>
 "The scammer *bilked* the kind lady out of half or her life savings."<br>
+
+**Bombastic** (adj): high-sounding but with little meaning; inflated<br>
+"Those on social media are often more *bombastic* than genuine; they are more bark than they are bite."<br>
 
 **Boor** (n): a crude person; one lacking manners or taste<br>
 "Shows nowadays seem to be filled with crude characters who are utter *boors*."<br>

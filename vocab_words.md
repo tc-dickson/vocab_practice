@@ -88,6 +88,9 @@ This is a list of vocab words that it would be good to learn.
 **Banality** (n): unoriginal<br>
 "The newest shows being produced by Disney are characterized by utter *banality* as they are mere repeats of old stories."<br>
 
+**Bawdy** (adj): dealing with sexual matters in a comical way; humorously indecent<br>
+"I dislike it when comedians resort to *bawdy* humor even when its sexualized nature is lauded by many others."<br>
+
 **Belied** (v): fail to give the true notion or impression of (something); disguise or contradict<br>
 "His vigor *belied* his years."<br>
 
@@ -96,6 +99,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Bilk** (v): swindle or scam; to cheat: to defraud<br>
 "The scammer *bilked* the kind lady out of half or her life savings."<br>
+
+**Blandish** (v): coax (someone) with kind words or flattery<br>
+"Because of her vain nature it was easy to *blandish* her into doing my bidding."<br>
 
 **Bombastic** (adj): high-sounding but with little meaning; inflated<br>
 "Those on social media are often more *bombastic* than genuine; they are more bark than they are bite."<br>
@@ -271,6 +277,9 @@ This is a list of vocab words that it would be good to learn.
 **Invidious** (adj): likely to promote ill-will<br>
 "The antagonistic teenager liked to push boundaries with his *invidious* comments."<br>
 
+**Jocund** (adj): cheerful and lighthearted<br>
+"It was nice to experience the *jocund* atmosphere that pervaded the wedding."<br>
+
 **Laconic** (adj): (of a person, speech, style of writing) using very few words<br>
 "The short time frame of the interview necessitated the *laconic* responses from the interviewee."<br>
 
@@ -300,6 +309,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Maladroitly** (adj): ineffective or bungling; clumsy; unskillful<br>
 "The long wait times at the restaurant were due to the new chef behaving *maladroitly*."<br>
+
+**Mellifluous** (adj): (of a voice or words) sweet or musical; pleasant to hear<br>
+"Good announcers have mellifluous voices that are pleasant to listen to."<br>
 
 **Mendacious** (adj): not telling the truth; lying<br>
 "Online scammers are know for their *mendacious* tactics in which they trick others into giving them their hard-earned money."<br>
@@ -355,6 +367,9 @@ This is a list of vocab words that it would be good to learn.
 **Perspicuous** (adj): (of an account or representation) clearly expressed and easily understood; lucid<br>
 "Good teachers have a way of explaining new topics in a perspicuous manner that allow even the most complex of topics to be easily understood."<br>
 
+"**Petulant** (adj): (of a person or their manner) childishly sulky or bad-tempered; rude or impulsive<br>
+"The bewitching hour is often accompanied by *petulant* moods and outbursts."<br>"
+
 **Picayune** (adj): insignificant or commonplace<br>
 "The overabundance of the name 'Sarah' has led it to being viewed as *picayune*."<br>
 
@@ -405,6 +420,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Taciturn** (adj): (of a person) reserved or uncommunicative in speech; saying little<br>
 "It was unsurprising that the shy child behaved in a *taciturn* manner when around his peers."<br>
+
+**Tepid** (adj): showing little enthusiasm; lukewarm; mediocre<br>
+"Depression can lead to apathy with results in an uncharacteristically *tepid* response to things that one usually enjoys."<br>
 
 **Trammel** (v): deprive of freedom of action<br>
 "The unfortunate accident *trammeled* the marathoner by inducing paralysis."<br>

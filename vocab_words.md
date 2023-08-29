@@ -55,6 +55,9 @@ This is a list of vocab words that it would be good to learn.
 **Anodyne** (n): Something that calms or soothes pain<br>
 "An external analgesic is one form of an *anodyne* which can both help pain and itching."<br>
 
+**Antecedent** (adj): preceding in time or order; previous or preexisting<br>
+"Placing the bowl was *antecedent* to pouring the milk and cereal."<br>
+
 **Antipathy** (n): a deep-seeded feeling of dislike; aversion<br>
 "OCD often brings me feelings of *antipathy* toward dirty and soiled fabrics."<br>
 
@@ -121,8 +124,17 @@ This is a list of vocab words that it would be good to learn.
 **Cajole** (v): persuade (someone) to do something by sustained coaxing or flattery<br>
 "One strategy often employed by children it to *cajole* their parents with incessant begging."<br>
 
+**Capitulate** (v): to surrender unconditionally or on stipulated terms<br>
+"Once the nation was shown to be to weak to continue fighting, the leaders agreed to *capitulate*."<br>
+
+**Castigate** (v): to punish in order to correct<br>
+"Fathers used to use their belts to *castigate* their children and help correct bad behavior."<br>
+
 **Catholic** (adj): universal; broad and comprehensive<br>
 "The man's *catholic* reputation for fine woodwork enabled copious work opportunities."<br>
+
+**Cautery** (n): an instrument used for branding<br>
+"The farmer used the *cautery* to mark his cows."<br>
 
 **Chauvinist** (n): someone prejudiced in favor of a group to which he or she belongs<br>
 "Toxic masculinity breeds an unhelpful group of *chauvinists*."<br>
@@ -358,6 +370,9 @@ This is a list of vocab words that it would be good to learn.
 **Perambulate** (v): walk or travel through or around a place or area, especially for pleasure and in a leisurely way<br>
 "She enjoyed herself as she *perambulated* the local park."<br>
 
+**Percipient** (adj): (of a person) having a good understanding of things; perceptive<br>
+"The wise leader was a *percipient* man, knowing the needs and struggles of his followers."<br>
+
 **Perfidious** (adj): deceitful and untrustworthy<br>
 "The sly child was known for using *perfidious* methods to avoid punishment."<br>
 
@@ -367,11 +382,14 @@ This is a list of vocab words that it would be good to learn.
 **Perspicuous** (adj): (of an account or representation) clearly expressed and easily understood; lucid<br>
 "Good teachers have a way of explaining new topics in a perspicuous manner that allow even the most complex of topics to be easily understood."<br>
 
-"**Petulant** (adj): (of a person or their manner) childishly sulky or bad-tempered; rude or impulsive<br>
-"The bewitching hour is often accompanied by *petulant* moods and outbursts."<br>"
+**Petulant** (adj): (of a person or their manner) childishly sulky or bad-tempered; rude or impulsive<br>
+"The bewitching hour is often accompanied by *petulant* moods and outbursts."<br>
 
 **Picayune** (adj): insignificant or commonplace<br>
 "The overabundance of the name 'Sarah' has led it to being viewed as *picayune*."<br>
+
+**Precipitate** (v): to hasten the occurrence of; to bring about prematurely<br>
+"The urgent news caused the team to *precipitate* the project despite the flaws in the design."<br>
 
 **Preclude** (v): prevent from happening; make impossible<br>
 "Choosing one upgrade in the video game's tech tree *precluded* an alternate upgrade."<br>
@@ -402,6 +420,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Propitious** (adj): giving or indicating a good chance of success;favorable<br>
 "Making plans has a greater tendency to be *propitious* when it comes to accomplishing desired goals rather than flying by the seat of your pants."<br>
+
+**Recidivist** (n): someone who repeatedly relapses, as into a crime<br>
+"Even after the 12 step program of AA, Stephen found that he had difficulty giving up his old habits thus characterizing himself as a *recidivist*"<br>
 
 **Sanguine** (adj): optimistic<br>
 "The sales person's *sanguine* claims did not match up with the unreliable product."<br>

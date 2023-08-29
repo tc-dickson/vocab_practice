@@ -143,6 +143,120 @@ autocrat
 automatic
 autonomy
 
+**BE**: about, to make, to surround, to affect (often used to transform words into transitive verbs)
+belie
+belittle
+bemoan 
+bewilder
+
+**BEL/BELL**: beautiful
+belle
+embellish
+
+**BELL**: war
+antebellum
+belligerent
+rebel
+
+**BEN/BENE**: good
+benediction
+benefit
+benevolent
+benign
+
+**BI/BIN**: two
+biennial
+bilateral
+bilingual
+binocular
+bipartisan
+combination
+
+**BON/BOUN**: good, generous
+bona fide
+bonus
+bountiful
+
+**BREV/BRID**: short, small
+abbreviate
+abridge
+brevet
+breviloquent
+brevity
+brief
+
+**BURS**: purse, money
+bursar
+bursary
+disburse
+reimburse
+
+**CAD/CID**: to fall, to happen by chance
+accident
+cascade
+coincidence
+decadent
+recidivist
+
+**CANT/CENT/CHANT**: to sing
+accent
+chant
+enchant
+incantation
+incentive
+recant
+
+**CAP/CAPIT/CIPIT**: head, headlong
+capital
+capitulate
+caption
+disciple
+precipice
+precipitate
+
+**CAP/CIP/CEPT**: to take, to get
+anticipate
+capture
+emancipate
+percipient
+precept
+susceptible
+
+**CARD/CORD/COUR**: heart
+cardiac
+concord
+concordance
+discord
+encourage
+
+**CARN**: flesh
+carnage
+carnival
+carnivorous
+incarnation
+reincarnation
+
+**CAST/CHAST**: to cut
+cast
+caste
+castigate
+chaste
+chastise
+
+**CAUS/CAUT**: to burn
+caustic
+cauterize
+cautery
+holocaust
+
+**CED/CEED/CESS**: to go, to yield, to stop
+accede
+antecedent
+cessation
+concede
+incessant
+predecessor 
+
 **GRAT**: pleasing
 gratuity
 ingratiate

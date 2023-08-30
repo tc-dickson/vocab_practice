@@ -10,6 +10,9 @@ This is a list of vocab words that it would be good to learn.
 **Abscond** (v): leave hurriedly and secretly, typically to avoid detection of or arrest for an unlawful action such as theft<br>
 "The thief *absconded* with the valuables at the first sign of danger."<br>
 
+**Absolve** (v): set ro declare (someone) free from blame, guilt, or responsibility<br>
+"After her title as manager was transferred to someone else, she found great relief in being *absolved* from her former responsibilities."<br>
+
 **Abstain** (v): to willfully avoid; to choose not to do something<br>
 "As a member of the Church of Jesus Christ of Latter-Day Saints, I choose to *abstain* from alcohol."<br>
 
@@ -154,6 +157,9 @@ This is a list of vocab words that it would be good to learn.
 **Coffer** (n): a strongbox; a large chest for money<br>
 "The king's *coffers* were near empty due to the costs of war."<br>
 
+**Colloquial** (adj): (of language) used in ordinary or familiar conversation; not formal or literary<br>
+"When I write I have a hard time using more *colloquial* or everyday kinds of phrases."<br>
+
 **Contrite** (adj): deeply sorrowful and repentant for a wrong<br>
 "God asks us to come before Him with a humble heart and a *contrite* spirit."<br>
 
@@ -220,6 +226,9 @@ This is a list of vocab words that it would be good to learn.
 **Fastidious** (adj): very attentive to and concerned about accuracy or detail<br>
 "Lukas is a very *fastidious* individual often making sure even the tiniest detail is accounted for."<br>
 
+**Faustian** (adj): done with present gain without regard to future cost or consequences<br>
+"Thinking of spending the inheritance now can only be entertained when coupled with *Faustian* motives."<br>
+
 **Fecundity** (n): the ability to produce an abundance of offspring; fertility<br>
 "The author's fecundity proved to be a wellspring of new ideas."<br>
 
@@ -258,6 +267,12 @@ This is a list of vocab words that it would be good to learn.
 
 **Heterodoxy** (n): deviation from accepted or orthodox standards or beliefs<br>
 "Change is often marked by *heterodoxy* in which the customs of the time are rejected in favor of new ways of living."<br>
+
+**Idiom** (n): a group of words established by usage as having a meaning not deducible from those of the individual words<br>
+"The phrase 'raining cats and dogs' is an *idiom* because its meaning as 'heavy rain' has absolutely nothing to do with animals falling from the sky."<br>
+
+**Idiomatic** (adj): language peculiar to a particular group<br>
+"I ran into a few phrases that were *idiomatic* to Southerners whilst on my mission."<br>
 
 **Ignoble** (adj): not honorable in character or purpose<br>
 "We often have to overcome the *ignoble* and childish feelings of lashing out against or making fun of someone."<br>
@@ -343,6 +358,9 @@ This is a list of vocab words that it would be good to learn.
 **Lugubrious** (adj): looking or sounding sad and dismal<br>
 "Depression is often accompanied by a sad or *lugubrious* face."<br>
 
+**Machiavellian** (adj): cunning, devious, and ruthless<br>
+"Not caring about the means and determined to get his way, the man resorted to *Machiavellian* tactics."<br>
+
 **Magnanimous** (adj): generous or forgiving, especially toward a rival or less powerful person<br>
 "Those who type 'gg ez' after a *DotA 2* match are not particularly *magnanimous* when compared to those who genuinely compliment the losing team."<br>
 
@@ -409,6 +427,9 @@ This is a list of vocab words that it would be good to learn.
 **Peripatetic** (adj): traveling from place to place, in particular working or based in various places for relatively short periods<br>
 "The consultant traveled much from company to company leading to his *peripatetic* reputation."<br>
 
+**Perjure** (v): lie under oath<br>
+"The man on trial was flabbergasted that the witness went against what he saw and *perjured* himself before the court."<br>
+
 **Perspicacious** (adj): having ready insight into and understanding of things; showing acute discernment<br>
 "The *perspicacious* man, experienced in puzzle solving, saw the convoluted clues as clear stepping stones."<br>
 
@@ -417,6 +438,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Petulant** (adj): (of a person or their manner) childishly sulky or bad-tempered; rude or impulsive<br>
 "The bewitching hour is often accompanied by *petulant* moods and outbursts."<br>
+
+**Philanderer** (n): a man who readily or frequently enters into casual sexual relationships with women; a womanizer<br>
+"We learn that those who might be described as *philanderers* in the scriptures are committing whoredoms."<br>
 
 **Picayune** (adj): insignificant or commonplace<br>
 "The overabundance of the name 'Sarah' has led it to being viewed as *picayune*."<br>
@@ -463,6 +487,9 @@ This is a list of vocab words that it would be good to learn.
 **Recidivist** (n): someone who repeatedly relapses, as into a crime<br>
 "Even after the 12 step program of AA, Stephen found that he had difficulty giving up his old habits thus characterizing himself as a *recidivist*"<br>
 
+**Remonstrate** (v): make a forcefully reproachful protest; one who rebukes<br>
+"The street-corner-preacher was known for *remonstrating* society for its woeful sins."<br>
+
 **Sanguine** (adj): optimistic<br>
 "The sales person's *sanguine* claims did not match up with the unreliable product."<br>
 
@@ -501,6 +528,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Undemonstrative** (adj): (of a person) not tending to express feelings, especially of affection, openly<br>
 "My dad noted that his parents were rather *undemonstrative* as they never kissed around him while growing up."<br>
+
+**Urbane** (adj): courteous and refined in manner; sophisticated<br>
+"The uncharacteristic chivalry of the man earned him an *urbane* reputation."<br>
 
 **Vacuous** (adj): having or showing lack of thought or intelligence; mindless<br>
 "The poorly stated comment revealed the *vacuous* tendencies of the individual."<br>

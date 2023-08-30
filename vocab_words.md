@@ -11,7 +11,7 @@ This is a list of vocab words that it would be good to learn.
 "The thief *absconded* with the valuables at the first sign of danger."<br>
 
 **Abstain** (v): to willfully avoid; to choose not to do something<br>
-"As a member of the Church of Jesus Christ of Latter-Day Saints, I choose to abstain from alcohol."<br>
+"As a member of the Church of Jesus Christ of Latter-Day Saints, I choose to *abstain* from alcohol."<br>
 
 **Accede** (v): agree to a demand, request, or treaty<br>
 "It was important that the people not *accede* to the demands of the ransom note."<br>

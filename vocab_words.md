@@ -82,6 +82,9 @@ This is a list of vocab words that it would be good to learn.
 **Asinine** (adj): extremely stupid or foolish<br>
 "The daredevil's ill-advised stunt can only be described as *asinine*."<br>
 
+**Assiduous** (adj): showing great diligence and perseverance<br>
+"I can be very *assiduous* when it comes to problem solving as I don't easily give up."<br>
+
 **Assuage** (v): make (an unpleasant feeling) less intense<br>
 "The SSRI medication *assuaged* the depression and intrusive thoughts of the individual."<br>
 
@@ -136,6 +139,9 @@ This is a list of vocab words that it would be good to learn.
 **Cautery** (n): an instrument used for branding<br>
 "The farmer used the *cautery* to mark his cows."<br>
 
+**Chary** (adj): cautiously or suspiciously reluctant to do something<br>
+"It seems to me that the word '*chary*' is a combination of the words 'cautious' and 'wary'."<br>
+
 **Chauvinist** (n): someone prejudiced in favor of a group to which he or she belongs<br>
 "Toxic masculinity breeds an unhelpful group of *chauvinists*."<br>
 
@@ -150,6 +156,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Contrite** (adj): deeply sorrowful and repentant for a wrong<br>
 "God asks us to come before Him with a humble heart and a *contrite* spirit."<br>
+
+**Controverts** (v): deny the truth of (something)<br>
+"New findings *controverted* the claims of earlier work helping to correct errant beliefs."<br>
 
 **Corroborate** (v): to agree with one another; to support with evidence<br>
 "The two witnesses' stories *corroborated* despite having been told from varying perspectives."<br>
@@ -178,6 +187,9 @@ This is a list of vocab words that it would be good to learn.
 **Egregious** (adj): outstandingly bad; shocking<br>
 "The journal article contained *egregious* errors despite the skill and renown of the researcher."<br>
 
+**Epicure** (n): a person who takes particular pleasure in fine food and drink; a food connoisseur<br>
+"The *epicure* was known for his ability to describe tasty foods in exquisite detail."<br>
+
 **Enervate** (v): cause (someone) to feel drained of energy or vitality; weaken<br>
 "The baby's incessant cries *enervated* the already tired parent to the brink of exhaustion."<br>
 
@@ -193,6 +205,9 @@ This is a list of vocab words that it would be good to learn.
 **Exacerbate** (v): make worse<br>
 "The heat of the day *exacerbated* the itchiness felt by the man with eczema."<br>
 
+**Excoriate** (v): censure or criticize severely; to harshly criticize<br>
+"The reviews of the highly polarizing movie both lauded and *excoriated* the film."<br>
+
 **Exculpated** (v): show or declare that (someone) is not guilty of wrongdoing<br>
 "After years of being accused of the theft, new evidence *exculpated* the alleged crime."<br>
 
@@ -201,6 +216,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Explicate** (v): analyze and develop (an idea or principle) in detail<br>
 "A good plan *explicates* the steps needed to accomplish a goal."<br>
+
+**Fastidious** (adj): very attentive to and concerned about accuracy or detail<br>
+"Lukas is a very *fastidious* individual often making sure even the tiniest detail is accounted for."<br>
 
 **Fecundity** (n): the ability to produce an abundance of offspring; fertility<br>
 "The author's fecundity proved to be a wellspring of new ideas."<br>
@@ -211,6 +229,9 @@ This is a list of vocab words that it would be good to learn.
 **Garrulous** (adj): excessively talkative, especially on trivial matters<br>
 "Grammy is one who is know for her incessant *garrulous* speech and prolific gossip."<br>
 
+**Gesticulate** (v): use gestures, especially dramatic ones, instead of speaking or to emphasize one's words<br>
+"The animated public speaker liked to *gesticulate* when it came to numbering bullet points in his speech."<br>
+
 **Grandiloquent** (adj): pompous or extravagant in language, style, or manner, especially in a way that is intended to impress<br>
 "The rhetoric used in the speech was rather *grandiloquent* and achieved its purpose in impressing the audience."<br>
 
@@ -219,6 +240,12 @@ This is a list of vocab words that it would be good to learn.
 
 **Gregarious** (adj): (of a person) fond of company; sociable<br>
 "The public speaker liked his job due to his *gregarious* nature."<br>
+
+**Gourmet** (n): a food connoisseur; a food critic<br>
+"The restaurant was named 'best in state' after several well-known *gourmets* reviewed it highly."<br>
+
+**Guile** (n): sly or cunning intelligence<br>
+"The hero used his wit to catch the villains with his *guile*."<br>
 
 **Harangue** (v): to lecture (someone) at length in an aggressive and critical manner<br>
 "In his disappointment, the coach *harangued* the team due to their uncharacteristic lack of effort resulting in a victory for the other team."<br>
@@ -279,6 +306,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Intransigent** (adj): unwilling to compromise; unable to reconcile<br>
 "The professor was *intransigent* about the assignment's deadline despite several students requesting an extension."<br>
+
+**Intrigue** (n): a secret scheme<br>
+"There were rumors of *intrigue* at the palace such that the king feared for the safety of his family."<br>
 
 **Inure** (v): accustom (someone) to something, especially something unpleasant<br>
 "After enough time stretching I become *inured* to the discomfort."<br>
@@ -379,6 +409,9 @@ This is a list of vocab words that it would be good to learn.
 **Peripatetic** (adj): traveling from place to place, in particular working or based in various places for relatively short periods<br>
 "The consultant traveled much from company to company leading to his *peripatetic* reputation."<br>
 
+**Perspicacious** (adj): having ready insight into and understanding of things; showing acute discernment<br>
+"The *perspicacious* man, experienced in puzzle solving, saw the convoluted clues as clear stepping stones."<br>
+
 **Perspicuous** (adj): (of an account or representation) clearly expressed and easily understood; lucid<br>
 "Good teachers have a way of explaining new topics in a perspicuous manner that allow even the most complex of topics to be easily understood."<br>
 
@@ -421,6 +454,12 @@ This is a list of vocab words that it would be good to learn.
 **Propitious** (adj): giving or indicating a good chance of success;favorable<br>
 "Making plans has a greater tendency to be *propitious* when it comes to accomplishing desired goals rather than flying by the seat of your pants."<br>
 
+**Punctilious** (adj): showing great attention to detail or correct behavior<br>
+"The careful student received an award for his *punctiliousness* as he had observed even the lesser-observed rules."<br>
+
+**Pundit** (n): an expert in a particular field who is called upon to give opinions about it; analyst<br>
+"The financial *pundit* was called on to provide his expert opinion regarding teh future of the city's economy."<br>
+
 **Recidivist** (n): someone who repeatedly relapses, as into a crime<br>
 "Even after the 12 step program of AA, Stephen found that he had difficulty giving up his old habits thus characterizing himself as a *recidivist*"<br>
 
@@ -435,6 +474,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Seminal** (adj): (of a work, event, moment, or figure) strongly influencing later developments<br>
 "Shakespeare's works were *seminal* in advising future literary works in all genres."<br>
+
+**Somatic** (adj): relating to the body, especially as distinct from the mind<br>
+"The critic described dancing as 'mere *somatic* movements' while maintaining that it required little involvement of the mind."<br>
 
 **Supercilious** (adj): behaving or looking as though one thinks one is superior to others<br>
 "Despite his negative reputation the man still behaved with a superior or *supercilious* air."<br>
@@ -468,3 +510,6 @@ This is a list of vocab words that it would be good to learn.
 
 **Vilipend** (v): regard as worthless or of little value; despise<br>
 "Dave Ramsey will *vilipend* the use of debt."<br>
+
+**Zephyr** (n): a soft gentle breeze<br>
+"There is a sword in a video game entitled 'the sword of the zephyr' which levitated the user on a gentle cushion of air."<br>

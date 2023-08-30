@@ -4,14 +4,14 @@ This is a list of vocab words that it would be good to learn.
 
 ## Words
 
-**Abstain** (v): to willfully avoid; to choose not to do something<br>
-"As a member of the Church of Jesus Christ of Latter-Day Saints, I choose to abstain from alcohol."<br>
-
 **Abjured** (v): solemnly renounce (a belief, cause, or claim)<br>
 "The witness *abjured* the author's claim thereby weakening the validity of the author's stance."<br>
 
 **Abscond** (v): leave hurriedly and secretly, typically to avoid detection of or arrest for an unlawful action such as theft<br>
 "The thief *absconded* with the valuables at the first sign of danger."<br>
+
+**Abstain** (v): to willfully avoid; to choose not to do something<br>
+"As a member of the Church of Jesus Christ of Latter-Day Saints, I choose to abstain from alcohol."<br>
 
 **Accede** (v): agree to a demand, request, or treaty<br>
 "It was important that the people not *accede* to the demands of the ransom note."<br>
@@ -504,6 +504,9 @@ This is a list of vocab words that it would be good to learn.
 
 **Vacuous** (adj): having or showing lack of thought or intelligence; mindless<br>
 "The poorly stated comment revealed the *vacuous* tendencies of the individual."<br>
+
+**Venerate** (v): regard with great respect; revere<br>
+"Mother Teresa is *venerated* as a saint."<br>
 
 **Vilify** (v): speak or write about in an abusively disparaging manner<br>
 "The press *vilified* the athlete after having discovered the blatant and deliberate cheating."<br>
